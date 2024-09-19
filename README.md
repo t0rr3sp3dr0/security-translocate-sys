@@ -15,7 +15,7 @@ cargo add security-translocate-sys
 Or add the following line to your Cargo.toml:
 
 ```toml
-security-translocate-sys = "0.1.0"
+security-translocate-sys = "0.1.1"
 ```
 
 ## Documentation
