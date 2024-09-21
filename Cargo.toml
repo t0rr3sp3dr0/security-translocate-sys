@@ -9,7 +9,7 @@ readme = "README.md"
 homepage = "http://t0rr3sp3dr0.github.io/security-translocate-sys"
 repository = "https://github.com/t0rr3sp3dr0/security-translocate-sys"
 license = "Apache-2.0"
-keywords = [ "framework", "mac", "ios", "security", "translocate" ]
+keywords = [ "apple", "framework", "mac", "security", "translocate" ]
 categories = [ "external-ffi-bindings", "os", "os::macos-apis" ]
 publish = [ "crates-io" ]
 
